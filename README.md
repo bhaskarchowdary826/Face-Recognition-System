@@ -32,7 +32,10 @@ A real-time face recognition system that identifies individuals with **95% accur
 
 
 Dataset Creation 📂
+
 Data Collection: Images are captured using a Python script with OpenCV. Faces are detected and saved with a unique ID for each individual.
+
+
 
 Challenges:
 
@@ -40,7 +43,10 @@ Capturing images under different lighting conditions.
 
 Minimizing background noise to improve model accuracy.
 
+
+
 Training the Model 🧠
+
 Preprocessing: Convert images to grayscale and resize them.
 
 Labeling: Assign unique labels to each individual.
@@ -48,6 +54,8 @@ Labeling: Assign unique labels to each individual.
 Training: Use K-Nearest Neighbors (KNN) to train the classifier on the dataset.
 
 Validation: Test the model to ensure accuracy.
+
+
 
 ## Installation and Setup 🛠️
 1. Clone the repository:
