@@ -35,7 +35,7 @@ Dataset Creation 📂
 
 Data Collection: Images are captured using a Python script with OpenCV. Faces are detected and saved with a unique ID for each individual.
 
-
+---
 
 Challenges:
 
@@ -43,7 +43,7 @@ Capturing images under different lighting conditions.
 
 Minimizing background noise to improve model accuracy.
 
-
+---
 
 Training the Model 🧠
 
@@ -55,7 +55,7 @@ Training: Use K-Nearest Neighbors (KNN) to train the classifier on the dataset.
 
 Validation: Test the model to ensure accuracy.
 
-
+---
 
 ## Installation and Setup 🛠️
 1. Clone the repository:
@@ -66,6 +66,8 @@ Validation: Test the model to ensure accuracy.
 
 3. Run the model successfully.
 
+   
+---
 
 Advantages ✅
 
@@ -77,7 +79,7 @@ Scalability: Can handle large databases of faces.
 
 Integration: Easily integrates with existing security systems.
 
-
+---
 
 Disadvantages ❌
 
@@ -88,7 +90,7 @@ Lighting and Obstructions: Performance may vary under different lighting conditi
 Identical Twins: Cannot distinguish between identical twins.
 
 
-
+---
 
 Applications 🌍
 
@@ -103,7 +105,7 @@ Consumer Electronics: Unlock devices using facial recognition.
 Smart Homes: Personalized experiences based on recognized users.
 
 
-
+---
 
 Future Improvements 🔮
 
@@ -114,7 +116,7 @@ Multiple Face Detection: Recognize multiple faces in a single frame.
 User-Friendly GUI: Add a graphical interface for easier interaction.
 
 
-
+---
 
 Contributing 🤝
 
@@ -122,7 +124,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 
 
-
+---
 
 
 Connect with Us 🌐
